@@ -1,0 +1,8 @@
+{
+  "name": "VitoriaAgopian/projeto-comercio3a",
+  "description":"",
+  "autoload":{
+    "psr-4": {
+      "Src\\": "src/"
+  }
+}
